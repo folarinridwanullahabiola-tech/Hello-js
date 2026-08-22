@@ -22,7 +22,7 @@ app.post('/user', (req, res) => {
 app.get('/user/:id', (req, res) => {
     const id = req.params.id;
     console.log(id);
-      res.send(id);
+      res.send("user (id) profile");
 })
 
 app.listen(3000, () => console.log("Example app listening on port 3000"));
