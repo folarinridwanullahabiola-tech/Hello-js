@@ -1,5 +1,0 @@
-console.log("Hello World!")
-console.log("This is my first JavaScript code snippet.")
-console.log("I am learning JavaScript to enhance my web development skills.")
-console.log("JavaScript is a powerful language for creating interactive web pages.")
-console.log("This is my experimental file where I can test and learn new concepts in JavaScript.")
